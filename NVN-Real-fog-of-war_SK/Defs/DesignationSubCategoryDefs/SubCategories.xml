@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<!-- FOG Cloned from Rimefeller -->
+
+
+	<!-- Категория животных на палке, добавить животных на палке -->
+	<ArchitectSense.DesignationSubCategoryDef>
+		<defName>SubCategory_Animals</defName>
+		<label>Animalsistic</label>
+		<description>Animals have eyes.</description>
+		<defNames>
+			<li>InspectorChicken</li>
+			<li>InspectorHare</li>
+			<li>InspectorMonkey</li>
+			<li>InspectorRat</li>
+			<li>InspectorSquirrel</li>
+		</defNames>
+		<designationCategory>FOW_Vision</designationCategory>
+		<debug>false</debug>
+	</ArchitectSense.DesignationSubCategoryDef>
+
+	<!-- Категория звоночков  добавить в Лист колокольчики -->
+	<ArchitectSense.DesignationSubCategoryDef>
+		<defName>SubCategory_Bells</defName>
+		<label>Bells</label>
+		<description>Bells to ring once enemies near</description>
+		<defNames>
+			<li>SecurityBellSmall</li>
+			<li>SecurityBell</li>
+		</defNames>
+		<designationCategory>FOW_Vision</designationCategory>
+		<debug>false</debug>
+	</ArchitectSense.DesignationSubCategoryDef>
+
+	<!-- Категория Камер  добавить в Лист камеры -->
+	<ArchitectSense.DesignationSubCategoryDef>
+		<defName>SubCategory_Сameras</defName>
+		<label>Cameras</label>
+		<description>Cameras to watch.</description>
+		<defNames>
+			<li>SurveillanceCamera_Mounted</li>
+			<li>SurveillanceCamera_Bush</li>
+			<li>SurveillanceCamera_DeadBush</li>
+			<li>SurveillanceCamera_UnderRoof</li>
+			<li>SurveillanceCamera_Ground</li>
+			<li>SurveillanceCamera_Solar</li>
+			<li>SurveillanceCamera_High</li>
+		</defNames>
+		<designationCategory>FOW_Vision</designationCategory>
+		<debug>false</debug>
+	</ArchitectSense.DesignationSubCategoryDef>
+</Defs>
+	

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Watch Tower -->
+
+  <WatchTower.label>Сторожевая башня</WatchTower.label>
+  <WatchTower.description>Сторожевая башня, необходимо в боевом режиме стать на башню для увеличения обзора.</WatchTower.description>
+
+  <WatchTowerRoofed.label>Сторожевая башня с крышей</WatchTowerRoofed.label>
+  <WatchTowerRoofed.description>Сторожевая башня с крышей, игнорирует погодные условия. необходимо в боевом режиме стать на башню для увеличения обзора.</WatchTowerRoofed.description>
+
+  <TowerLightBeacon.label>Фонарь позволяет колонистам лучше видеть в темноте.</TowerLightBeacon.label>
+  <TowerLightBeacon.description>Jтключать Дебаф за ночь, необходимо стоять на нем, либо рядом</TowerLightBeacon.description>
+
+  <!-- Watch Scope -->
+
+  <WatchTelescope.label>Охранный Телескоп </WatchTelescope.label>
+  <WatchTelescope.description>Увеличивает дальность обзора, необходимо занимать.</WatchTelescope.description>
+
+</LanguageData>

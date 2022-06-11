@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DayVisionEffectiveness.label>Эффективность обзора днем</DayVisionEffectiveness.label>
+  <DayVisionEffectiveness.description>Мультипликатор того как юнит видит днем</DayVisionEffectiveness.description>
+
+  <NightVisionEffectiveness.label>Эффективность обзора ночью</NightVisionEffectiveness.label>
+  <NightVisionEffectiveness.description>Мультипликатор того как юнит видит ночью</NightVisionEffectiveness.description>
+
+
+</LanguageData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<!-- Surveillance Camera -->
+	<ThingDef Name="BaseVisionStuff" ParentName="SK_BuildingBase" Abstract="True">
+		<!--<thingClass>Building</thingClass>
+		<category>Building</category>
+		<selectable>true</selectable>-->
+		<designationCategory>FOW_Vision</designationCategory>
+		<!--<thingCategories>
+			<li>FogOfWarVision</li>
+		</thingCategories>-->
+		<stealable>false</stealable>
+	</ThingDef>
+</Defs>

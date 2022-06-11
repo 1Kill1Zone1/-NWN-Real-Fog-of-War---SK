@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Most animal eat 0.56 nutrition per day -->
+
+  <InspectorChicken.label>Инспектор КУР</InspectorChicken.label>
+  <InspectorChicken.description>Не знаю как это объяснить, но мясо с нее не упадет если убить. Кура сидящая на жердочке и предоставляющая обзор, Кушает все базовые фрукты и посадки.</InspectorChicken.description>
+
+  <InspectorMonkey.label>Инспектор Обезъянка</InspectorMonkey.label>
+  <InspectorMonkey.description>Мясо не упадет. смотрит по сторонам Потребляет ягоды.</InspectorMonkey.description>
+
+  <InspectorRat.label>Инспектор Мышь</InspectorRat.label>
+  <InspectorRat.description>Мышь из Рататуя ест только картошку, дает обзор, при смерти издает интересный звук.</InspectorRat.description>
+
+  <InspectorSquirrel.label>Инспектор Белка</InspectorSquirrel.label>
+  <InspectorSquirrel.description>Белка которая выбрала своим ЛЮБЫМЫМ блюдом - кукурузу, капризная, дает обзор.</InspectorSquirrel.description>
+
+  <InspectorHare.label>Инспектор Заяц?</InspectorHare.label>
+	<InspectorHare.description>Больше похож на опоссума, но кушает только сено.</InspectorHare.description>
+
+</LanguageData>

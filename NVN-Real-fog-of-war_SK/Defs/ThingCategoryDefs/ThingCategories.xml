@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <ThingCategoryDef>
+    <defName>FogOfWarVision</defName>
+    <label>Fog_Label</label>
+    <parent>Buildings</parent>
+    <!-- <iconPath>NVN-Real-fog-of-war_SK/Textures/UI/ArchitectIcons/FOW_Vision.png</iconPath>-->
+  </ThingCategoryDef>
+</Defs>

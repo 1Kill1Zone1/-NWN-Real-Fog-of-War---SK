@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- no tier -->
+
+  <SecurityBell.label>Охранный колокольчик</SecurityBell.label>
+  <SecurityBell.description>Охранный колокольчик, который дает обзор в ограниченной области</SecurityBell.description>
+
+  <SecurityBellSmall.label>Охранный колокольчик Маленький</SecurityBellSmall.label>
+		<SecurityBellSmall.description>Маленький сесурити колокольчик который дает обзор в ограниченной области </SecurityBellSmall.description>
+  <!-- Tier 1, blocky and non curved -->
+
+  <SurveillanceCamera_Mounted.label>Камера наблюдения Настенная</SurveillanceCamera_Mounted.label>
+  <SurveillanceCamera_Mounted.description>Камера наблюдения предоставляющая обзор радиусом 24 ???Automatically sustain itself power???</SurveillanceCamera_Mounted.description>
+
+  <SurveillanceCamera_Bush.label>Камера наблюдения (Куст)</SurveillanceCamera_Bush.label>
+  <SurveillanceCamera_Bush.description> Камера замаскированная под куст, Не вызывает абсолютно никаких вопросов. Даже если расположить посреди пустыни или Гор. предоставляет обзор радиусом 24.</SurveillanceCamera_Bush.description>
+
+  <SurveillanceCamera_DeadBush.label>>Камера наблюдения (Мертвый Куст)</SurveillanceCamera_DeadBush.label>
+  <SurveillanceCamera_DeadBush.description>Камера замаскированная под мертвый куст, Не вызывает абсолютно никаких вопросов чуть больше. Даже если расположить посреди пустыни или Гор. предоставляет обзор радиусом 24.</SurveillanceCamera_DeadBush.description>
+
+
+  <!-- Tier 2, flexible, curved and provide more vision range -->
+
+  <SurveillanceCamera_UnderRoof.label>Камера наблюдения (без IP68)</SurveillanceCamera_UnderRoof.label>
+  <SurveillanceCamera_UnderRoof.description>Камера наблюдения предоставляющая обзор радиусом 25, можно установить только под крышей, поэтому и стоит дешевле.</SurveillanceCamera_UnderRoof.description>
+
+  <SurveillanceCamera_Ground.label>Камера наблюдения (Наземная)</SurveillanceCamera_Ground.label>
+  <SurveillanceCamera_Ground.description>Камера наблюдения предоставляющая обзор радиусом 35.</SurveillanceCamera_Ground.description>
+
+  <SurveillanceCamera_Solar.label>Камера наблюдения с солнечной панелью.</SurveillanceCamera_Solar.label>
+  <SurveillanceCamera_Solar.description>Камера наблюдения предоставляющая обзор радиусом 40.</SurveillanceCamera_Solar.description>
+
+  <SurveillanceCamera_High.label>Глаз Дяди Сэма</SurveillanceCamera_High.label>
+  <SurveillanceCamera_High.description> Целая Установка тепловизионных камера наблюдения предоставляющая обзор радиусом 65.Нельзя размещать внутри.</SurveillanceCamera_High.description>
+
+
+</LanguageData>

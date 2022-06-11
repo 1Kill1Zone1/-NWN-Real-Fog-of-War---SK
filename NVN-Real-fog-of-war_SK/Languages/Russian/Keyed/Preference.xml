@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+		<MustBeUnderRoof>Должно размещаться под крышей.</MustBeUnderRoof>
+	<MustBeNextToWall>Должно размещаться рядом со стеной.</MustBeNextToWall>
+	<NotVisible>Скрытая Територия</NotVisible>
+	<CannotPlaceInUndiscovered>Нельзя размещать в неиследованной территории.</CannotPlaceInUndiscovered>
+	<baseViewRangeDesc>Стандартный радиус обзора животных</baseViewRangeDesc>
+	<buildingVisionModDesc>Мультипликатор того как далеко видят здания(камеры, животные на палках и тд)</buildingVisionModDesc>
+	<animalVisionModDesc>Мультипликатор того как далеко может видеть животное</animalVisionModDesc>
+	<turretVisionModDesc>Мультипликатор того как далеко может видеть турель</turretVisionModDesc>
+	<NeedWatcher>За камерами нужно смотреть(Отключите если не хотите чтобы колонист должен был наблюдать за камерами</NeedWatcher>
+	<NeedWatcherDesc/>
+	<wildLifeTabVisible>Дикие Животные все равно отображаются в тумане войны</wildLifeTabVisible>
+	<wildLifeTabVisibleDesc/>
+	<NeedStorage>Камеры нуждаются в достаточном количестве памяти для хранения</NeedStorage>
+	<NeedStorageDesc/>
+	<hideSpeakBubble>Скрывать Взаимодействие противников для врагов находящихся в тумане войны.</hideSpeakBubble>
+	<hideSpeakBubbleDesc>Скрывать общение пешек находящихся в тумане войны если вы используете Interaction Buble Mod. Может привести к потере TPS Приведет к крашу интерефейса если использовать Speak Up Mod.</hideSpeakBubbleDesc>
+	<CameraCount>Кол-во Функционирующих камер</CameraCount>
+	<NoCameraConsole>Консоль камеры не построена или не используется</NoCameraConsole>
+	<Revealing>Revealing area...</Revealing>
+	<baseHearingRange>Cтандартный диапазон слышанья (На каком расстоянии, за преградами будет слышно движение пешек). Установить на 0 чтобы деактивировать</baseHearingRange>
+	<censorMode>Hide that little thing for the puritan</censorMode>
+	<hideEventNegative>Скрывать Негативные ивенты (ex: Blight)</hideEventNegative>
+	<hideEventNeutral>Скрывать Нейтральные ивенты</hideEventNeutral>
+	<hideEventPositive>Скрывать Позитивные ивенты(ex: Караван)</hideEventPositive>
+	<hideThreatBig>Скрывать Средние угрозы (ex: Рейд)</hideThreatBig>
+	<hideThreatSmall>Скрывать Мелкие угрозы (ex: Агрессивное животное)</hideThreatSmall>
+	<prisonerGiveVision>Пленники дают ограниченный обзонр</prisonerGiveVision>
+	<fogAlphaSetting_title>Уровень тумана</fogAlphaSetting_title>
+	<fogAlphaSetting_desc>Туман для разведанных, но в текущий момент не наблюдаемых территорий</fogAlphaSetting_desc>
+	<fogAlphaSetting_Black>Тьма</fogAlphaSetting_Black>
+	<fogAlphaSetting_NearlyBlack>Почти Черный</fogAlphaSetting_NearlyBlack>
+	<fogAlphaSetting_VeryVeryVeryDark>Очень темный x3</fogAlphaSetting_VeryVeryVeryDark>
+	<fogAlphaSetting_VeryVeryDark>Очень темный x2</fogAlphaSetting_VeryVeryDark>
+	<fogAlphaSetting_VeryDark>Очень темный</fogAlphaSetting_VeryDark>
+	<fogAlphaSetting_Dark>Темный</fogAlphaSetting_Dark>
+	<fogAlphaSetting_Medium>Средний</fogAlphaSetting_Medium>
+	<fogAlphaSetting_Light>Легкий</fogAlphaSetting_Light>
+	<fogFadeSpeedSetting_title></fogFadeSpeedSetting_title>
+	<fogFadeSpeedSetting_desc>Speed of the fog fade effect. Disable it could improve performances.</fogFadeSpeedSetting_desc>
+	<fogFadeSpeedSetting_Slow>Медленно</fogFadeSpeedSetting_Slow>
+	<fogFadeSpeedSetting_Medium>Средне</fogFadeSpeedSetting_Medium>
+	<fogFadeSpeedSetting_Fast>Быстро</fogFadeSpeedSetting_Fast>
+	<fogFadeSpeedSetting_Disabled>Деактивировать</fogFadeSpeedSetting_Disabled>
+</LanguageData>

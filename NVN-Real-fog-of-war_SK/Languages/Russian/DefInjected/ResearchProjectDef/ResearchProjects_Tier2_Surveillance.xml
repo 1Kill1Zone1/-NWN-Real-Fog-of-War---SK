@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tier 2.5 Microelectronics -->
+
+  <CameraSecurity.label>Камеры наблюдения</CameraSecurity.label>
+  <CameraSecurity.description>Позволяет строить базовые камеры наблюдения.</CameraSecurity.description>
+
+  <CameraSecurityAdvanced.label>Камеры наблюдения продвинутые</CameraSecurityAdvanced.label>
+  <CameraSecurityAdvanced.description>Позволяет строить продвинутые камеры наблюдения.</CameraSecurityAdvanced.description>
+
+  <WatchTelescope.label>Телеском Сторожевая</WatchTelescope.label>
+  <WatchTelescope.description>Позволяет строить стандартный телеском для наблюдателя.</WatchTelescope.description>
+
+
+</LanguageData>
