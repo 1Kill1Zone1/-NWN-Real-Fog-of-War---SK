@@ -312,7 +312,9 @@
 		<passability>Standable</passability>
 		<leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
 		<rotatable>false</rotatable>
-		<stuffCategories>Metallic</stuffCategories>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
 		<costStuffCount>30</costStuffCount>
 		<costList>
 			<Glass>20</Glass>
