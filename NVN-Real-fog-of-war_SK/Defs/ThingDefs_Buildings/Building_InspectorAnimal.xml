@@ -64,10 +64,10 @@
 				<fuelConsumptionRate>10</fuelConsumptionRate>
 				<fuelCapacity>60.0</fuelCapacity>
 				<fuelFilter>
-					<thingDefs>
+					<categories>
 						<li>FruitFoodRaw</li>
 						<li>BasicPlantFoodRaw</li>
-					</thingDefs>
+					</categories>
 				</fuelFilter>
 				<initialFuelPercent>1</initialFuelPercent>
 			</li>
